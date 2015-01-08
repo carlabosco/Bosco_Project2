@@ -10,7 +10,7 @@ var bio = {
 	},
 	"welcomeMessage": "I love a good challenge. Can I help you with yours?",
 	"skills": ["Front-end development", "Tech Writing", "User Experience"],
-	"bioPic": "images/fry.jpg",
+	"bioPic": "images/abstract.jpg",
 };
 
 bio.display = function() {
@@ -146,7 +146,7 @@ var projects = {
 		"dates": "2013",
 		"description": "Looking for an awesome app? Awesomizer!",
 		"images": [
-			"http://lorempixel.com/400/200", "http://lorempixel.com/400/200"
+			"images/abstract4.jpg", "images/city1.jpg"
 		]
 		},
 
@@ -155,7 +155,7 @@ var projects = {
 		"dates": "2014",
 		"description": "Easy control for development projects",
 		"images": [
-			"http://lorempixel.com/400/200", "http://lorempixel.com/400/200"
+			"images/nature2.jpg", "images/nature3.jpg"
 		]
 		}
 	]
